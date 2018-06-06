@@ -22,13 +22,15 @@ $ git clone https://github.com/mertbozkurt/ClosestCoordinates.git
 ### Prerequisites
 
 
-* Input text file should contain one point per line. For every line, coordinate values should be separated by "\t". 
-* There should be at least two points in input file.
-* If program will be run without command line arguments then ../InputTestFiles/sample_input_91_732.tsv should exists, if it doesn't exist then program crashes.
-* There is no restriction for dimension.
-* There is no maximum limit for points.
+* There should be  one point per line  and  at least two points in input.txt
+* In every line, coordinates should be separated by "\t". 
+* There is no restriction for dimension and number of points
 
 
+### Output
+
+* outputTemp.txt file shows 2 points which have shortest distance to each other.
+* Results are ordered according to line number in input.txt
 
 ## Authors
 
