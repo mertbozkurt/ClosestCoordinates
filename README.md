@@ -29,7 +29,7 @@ $ git clone https://github.com/mertbozkurt/ClosestCoordinates.git
 
 ### Output
 
-* outputTemp.txt file shows 2 points which have shortest distance to each other.
+* outputTemp.txt file shows only 2 points which have shortest distance to each other.
 * Results are ordered according to line number in input.txt
 
 ## Authors
